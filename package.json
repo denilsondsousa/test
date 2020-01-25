@@ -1,0 +1,10 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Denilson Sousa <denilsondssufpi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
